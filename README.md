@@ -1,1 +1,2 @@
 # rock_paper_scissors
+This Rock Paper Scissors app lets players challenge the computer in a classic game of strategy. Simply click on "Rock," "Paper," or "Scissors" to make your move, and the computer will randomly select its own. The app updates scores in real-time, showing whether you've won, lost, or tied. The first to reach a set score wins! Play as many rounds as you like and see if you can beat the computer!
